@@ -33,24 +33,38 @@ class Main extends React.Component {
             <img src={pic01} alt="" />
           </span>
           <p>
-            Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
-            aliquam facilisis ante interdum congue. Integer mollis, nisl amet
-            convallis, porttitor magna ullamcorper, amet egestas mauris. Ut
-            magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas.
-            By the way, check out my <a href="#work">awesome work</a>.
+            Hey all!
+
+            I'm Dave. A world-traveling, game playing, fiction reading, web app 
+            developing, resistance training individual.
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
-            dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora
-            torquent per conubia nostra, per inceptos himenaeos. Etiam tristique
-            libero eu nibh porttitor fermentum. Nullam venenatis erat id
-            vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
-            Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae
-            dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in
-            lectus. Pellentesque habitant morbi tristique senectus et netus et
-            malesuada fames ac turpis egestas. In non lorem sit amet elit
-            placerat maximus. Pellentesque aliquam maximus risus, vel sed
-            vehicula.
+            I've been teaching in Thailand at a government high school for the 
+            past few years. As the sole Computer Teacher, I was responsible
+            for designing the curriculum for all 130+ students under my care.
+            This experience helped develop my leadership, project planning, 
+            negotiating, and most important, team work skills. On the development
+            side, I was teaching students basic Java, JavaScript, HTML, CSS, MySQL,
+            and Python. Creatively, I taught Photoshop, After Effects, and InDesign. 
+            Students used Scratch to learn how to think critically, problem solve, 
+            and improve logical reasoning by creating a soccer game in pairs.
+            Throughout my time here, I used Udemy, Youtube, KhanAcademy, and several 
+            other resources to grow my software engineering skills. However, I knew
+            there were gaps in my knowledge.
+          </p>
+          <p>
+            To fill in the gaps, I joined Lighthouse Labs. An awesome lab putting 
+            participants through intensive coding practices. I was a part of their
+            Web Development Bootcamp. From here, I gained a stronger grasp of JavaScript,
+            NodeJS, PostgreSQL, and HTML/CSS. With others, I've become a more conscious 
+            leader, team-member, and contributor through pair programming, and developing
+            entire apps in the span of a week or two. In the end, I learned how to take
+            advantage of new tech, like Ruby on Rails. My final project was a Native app
+            helping users explore and share hidden art gems around the city. Our stack
+            consisted of React Native, Redux, Rails, PostgreSQL, MongoDB, and AWS Rekognition.
+          </p>
+          <p>
+            By the way, check out my <a href="#work">awesome work</a>.
           </p>
           {close}
         </article>
